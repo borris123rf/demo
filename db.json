@@ -1,6 +1,14 @@
 {
-  "en": { header: { "login": "Login" } },
-  "cn": { header: { "login": "1️⃣GGG" } },
+  "en": { 
+    "header": { 
+      "login": "Login" 
+    } 
+  },
+  "cn": { 
+    "header": { 
+      "login": "1️⃣GGG" 
+    } 
+  },
   "profile": {
     "name": "typicode"
   }
